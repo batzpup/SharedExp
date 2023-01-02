@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wt61IKrY7v8MVIfQ9JDJ5Yc8VtWmzAqY7SrCiPMItcbofU7MyVgmJ2FUf+hsOcfhmCk3WFaFwXQOnkRsuUO12Q==",
+  "success": true,
+  "projectFilePath": "D:\\Mods\\StardewValley\\SharedExp\\SharedExp\\SharedExp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AdamV\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\AdamV\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.0.2\\pathoschild.stardew.modbuildconfig.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
